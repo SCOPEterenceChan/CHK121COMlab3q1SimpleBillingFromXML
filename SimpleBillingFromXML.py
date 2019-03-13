@@ -1,3 +1,10 @@
+'''
+Simple Billing Program
+
+Created on dd/mm/yy
+
+@author: yourname
+'''
 import xmltodict
 import urllib.request
 fileIn=urllib.request.urlopen('http://personal.cityu.edu.hk/~dcywchan/1718SemB121COM/client.xml')
