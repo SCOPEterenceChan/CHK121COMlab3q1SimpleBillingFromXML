@@ -1,9 +1,9 @@
 '''
 Simple Billing Program
 
-Created on dd/mm/yy
+Created on 15/03/2019
 
-@author: yourname
+@author: Terence
 '''
 import xmltodict
 import urllib.request
