@@ -1,3 +1,4 @@
+import sys
 def main():
         loanAmount = float(input("The loan amount is : "))
         annualInterestRate = float(input("The annual interest rate is: "))
