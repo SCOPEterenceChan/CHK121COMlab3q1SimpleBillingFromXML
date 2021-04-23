@@ -13,3 +13,6 @@ If a balance is exactly zero,
 then that person's balance *should* not appear in the report.
 
 
+1. adding Student.py
+2. modify Readme.md
+
